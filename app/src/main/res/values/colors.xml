@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5189c5</color>
+    <color name="colorPrimaryDark">#467cbe</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="background">#ffffff</color>
+
+    <!-- Navigation Drawer BEGIN -->
+    <color name="nav_drawer_checked_menu_item_bg">#ececec</color>
+    <color name="nav_drawer_menu_text_color">#212121</color>
+    <color name="nav_drawer_divider_bg">#e6e6e6</color>
+    <color name="nav_drawer_bg">#ffffff</color>
+    <!-- Side menu END -->
+
+</resources>
